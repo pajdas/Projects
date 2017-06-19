@@ -1,0 +1,11 @@
+Założenia:
+  -ładowanie zasobów z pliku *.txt
+  -wczytywanie zasobów do pliku *.txt
+  -wyświetlanie grafiki (elementów gry)
+  -przewijanie mapy
+  -ładowanie/usuwanie elementów mapy do/z pamięci
+  -poruszanie się
+  -wykrywanie kolizji
+  -umieszczanie elementów gry przez postać (element gameplay'u)
+  
+  
